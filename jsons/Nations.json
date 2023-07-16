@@ -25,11 +25,11 @@
 		"afterPeace": "PM Nopporn want peace.",
 		"tradeRequest": "trade offer",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["x approach infinity","absolutely zero","dy by dx","divide by zero","Limitless", "derivative of Nopporn","x square minus 2"],
+		"outerColor": [255, 255, 255],
+		"innerColor": [51, 190, 255],
+		"unique": ["+[2] [Science] <in all cities>"],
+		"cities": ["x approach infinity","x approach 0","absolutely zero","dy by dx","divide by zero","Limitless", "derivative of Nopporn","x square minus 2"],
 		
-		"spyNames": ["Spy 1","Spy Ben dover","Mike hunt"]
+		"spyNames": ["Spy Ben dover","Mike hunt","Liz Truss"]
 	}
 ]
